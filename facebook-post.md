@@ -1,19 +1,39 @@
-# Facebook 宣传帖文草稿
+# Facebook 宣传帖文草稿：网站制作服务
 
-**配图建议：**选一张自家蒸笼点心和门店环境的清晰照片，尽量使用原创门店照片。
+**配图建议：**放点心店网站的首页截图，最好展示电脑和手机两个尺寸。网站目前是演示作品，发布时可注明“网站设计示例”。
 
-**帖文：**
+**中文版：**
 
-早茶的快乐，就是和喜欢的人围着一桌热腾腾的点心慢慢聊。🥢🍵
+想让顾客更容易找到你的店、看菜单和联系你吗？📱💻
 
-笼里每天新鲜手作，晶莹鲜虾饺、蟹籽烧卖皇、流沙奶黄包……蒸好一笼，才上这一笼。
+我可以帮小店和个人商家制作简洁、适合手机浏览的网站，让顾客快速了解你的服务，并找到联络方式。
 
-这个周末，约家人朋友来饮茶吧！
-📍 地址：[填写真实地址]
-⏰ 营业时间：[核实营业时间]
-📲 电话：011-1776243（请确认号码完整，并补上 WhatsApp 链接）
-🌐 菜单与详情：[发布网站后的公开网址]
+✅ 展示店铺、菜单或服务
+✅ 支持中英文页面
+✅ 手机、平板和电脑都能浏览
+✅ 加入电话、WhatsApp 和社交分享入口
 
-#笼里点心 #早茶时间 #手作点心 #[城市名]美食
+点心店网站是我的设计示例。想为你的生意做一个网站？欢迎联系我聊聊你的想法。
 
-> 发布前请把方括号里的内容换成真实店铺资料，并确认示例菜单及价格准确。网站目前是概念样稿。
+📲 电话：011-1776243
+
+#网站制作 #网页设计 #小生意 #商家网站 #中小企业
+
+**English version:**
+
+Need a website for your small business? 📱💻
+
+I create clean, mobile-friendly websites that help customers discover your business, browse your menu or services, and get in touch.
+
+✅ Business, menu and service pages
+✅ Chinese and English versions
+✅ Works on phones, tablets and computers
+✅ Contact and social sharing links
+
+The dim sum website is a design sample. Get in touch to talk about a website for your business.
+
+📲 Call: 011-1776243
+
+#WebsiteDesign #WebDesign #SmallBusiness #BusinessWebsite
+
+> 发布前请确认电话号码完整且可接通；也可以先补上你希望公开展示的作品链接。
