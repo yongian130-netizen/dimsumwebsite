@@ -8,8 +8,9 @@ A responsive static website concept for a dim sum shop. Open `index.html` for Ch
 - Add the real street address, confirmed opening hours, and working phone / WhatsApp contact link.
 - Replace sample photos with original shop photos where available. Current photos load from Unsplash and require an internet connection.
 - Facebook share metadata is included; the share button works after the site is deployed to a public URL.
-- A Chinese Facebook post draft is in `facebook-post.md`.
+- A Facebook promotion graphic (`facebook-promo.png`) and English caption for European small businesses are in this folder.
 
 ## Free hosting
 
 Push this folder to a GitHub repository and enable GitHub Pages, or deploy it through Netlify / Cloudflare Pages. The site uses plain HTML, CSS and JavaScript.
+

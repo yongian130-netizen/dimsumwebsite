@@ -1,39 +1,38 @@
-# Facebook 宣传帖文草稿：网站制作服务
+# Facebook example post — website design for European small businesses
 
-**配图建议：**放点心店网站的首页截图，最好展示电脑和手机两个尺寸。网站目前是演示作品，发布时可注明“网站设计示例”。
+## Ready-to-post English caption
 
-**中文版：**
+**Need a website for your small business?**
 
-想让顾客更容易找到你的店、看菜单和联系你吗？📱💻
+I create clean, mobile-friendly websites that help customers understand what you offer and find a way to contact you.
 
-我可以帮小店和个人商家制作简洁、适合手机浏览的网站，让顾客快速了解你的服务，并找到联络方式。
+A site can include:
+• Your services, products or menu
+• English and Chinese pages
+• Contact, enquiry or booking links
+• Layouts for phones, tablets and computers
 
-✅ 展示店铺、菜单或服务
-✅ 支持中英文页面
-✅ 手机、平板和电脑都能浏览
-✅ 加入电话、WhatsApp 和社交分享入口
+The dim sum house shown in the image is a concept website I created as a design sample. I’m available to work remotely with small businesses in Europe.
 
-点心店网站是我的设计示例。想为你的生意做一个网站？欢迎联系我聊聊你的想法。
+**Send me a Facebook message** with your type of business and what you’d like your website to do. We can talk through an idea for your business.
 
-📲 电话：011-1776243
+#WebDesign #SmallBusinessEurope #BusinessWebsite #WebsiteDesign
 
-#网站制作 #网页设计 #小生意 #商家网站 #中小企业
+## 中文参考（面向欧洲顾客发帖时建议使用上面的英文版）
 
-**English version:**
+你的小生意需要一个网站吗？
 
-Need a website for your small business? 📱💻
+我可以为商家制作简洁、适合手机浏览的网站，帮助顾客了解你提供的服务，并快速找到联系你的方式。
 
-I create clean, mobile-friendly websites that help customers discover your business, browse your menu or services, and get in touch.
+网站可展示产品、菜单或服务，也可以制作中英文页面，并加入咨询、预约或联络入口。图片里的点心店是我制作的网站设计示例。我可以远程为欧洲的小企业提供网站制作服务。
 
-✅ Business, menu and service pages
-✅ Chinese and English versions
-✅ Works on phones, tablets and computers
-✅ Contact and social sharing links
+欢迎通过 Facebook 私信告诉我你的行业，以及希望网站帮你做什么，我们可以一起聊聊适合你的方案。
 
-The dim sum website is a design sample. Get in touch to talk about a website for your business.
+## 发帖步骤
 
-📲 Call: 011-1776243
+1. 在你的 Facebook 个人账号或专页选择“创建帖子”。
+2. 上传同目录的 `facebook-promo.png`。
+3. 复制粘贴上面的英文帖文。
+4. 发布前确认 Messenger 能正常接收陌生人的咨询。如果网站以后有公开作品链接，可以再把链接加进帖文。
 
-#WebsiteDesign #WebDesign #SmallBusiness #BusinessWebsite
-
-> 发布前请确认电话号码完整且可接通；也可以先补上你希望公开展示的作品链接。
+这是一份示例文案和设计图；目前没有代你发布到 Facebook。
